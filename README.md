@@ -1,6 +1,6 @@
 # **AGENDA PESSOAL**
 
-O **Agenda Pessoal** é um sistema simples para o gerenciamento de contatos, desenvolvido com base nos conceitos apresentados na aula 13. O projeto utiliza JPA (Java Persistence API) para interação com um banco de dados relacional (MySQL) e foi projetado para adicionar, atualizar, listar e remover contatos.
+O **Agenda Pessoal** é um sistema simples para o gerenciamento de contatos. O projeto utiliza JPA (Java Persistence API) para interação com um banco de dados relacional (MySQL) e foi projetado para adicionar, atualizar, listar e remover contatos.
 
 Este projeto aborda conceitos fundamentais como:
 - Persistência de dados.
@@ -41,18 +41,8 @@ Configure o Output Directory para o local onde deseja salvar os arquivos.
 Clique em OK para gerar a documentação.
 Abra o arquivo index.html gerado para visualizar a documentação.
 
-## 🔍 Testando o Projeto
-Crie objetos de contato diretamente no código, chamando os métodos correspondentes:
-adicionarContato(String nome, String telefone)
-atualizarContato(int id, String nome, String telefone)
-deletarContato(int id)
-listarContatos()
-Verifique o banco de dados para confirmar as operações realizadas.
-Consulte o console para mensagens de sucesso ou erro.
-
 ##✒️ Autor
 Bruno - Atividade individual - Lista de Exercícios AC2 - HERANÇA 3/4.
 
-Repositório do projeto: GitHub - Agenda Pessoal
 
 
