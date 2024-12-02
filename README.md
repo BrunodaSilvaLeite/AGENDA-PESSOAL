@@ -27,11 +27,12 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 - Maven configurado.
 
 ---
-##📝 Funcionalidades do Sistema
+## 📝 Funcionalidades do Sistema
 Adicionar Contato: Insira novos contatos no banco de dados.
 Atualizar Contato: Atualize informações de contatos existentes.
 Deletar Contato: Remova contatos do banco de dados.
 Listar Contatos: Consulte todos os contatos cadastrados.
+
 
 ## 📚 Geração de JavaDoc
 Este projeto possui JavaDoc para descrever as classes e métodos implementados. Para gerar a documentação, siga os passos:
@@ -41,7 +42,7 @@ Configure o Output Directory para o local onde deseja salvar os arquivos.
 Clique em OK para gerar a documentação.
 Abra o arquivo index.html gerado para visualizar a documentação.
 
-##✒️ Autor
+## ✒️ Autor
 Bruno - Atividade individual - Lista de Exercícios AC2 - HERANÇA 3/4.
 
 
